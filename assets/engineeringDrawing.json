@@ -1,0 +1,108 @@
+[
+  {
+    "Title": "ASSEMBLY FRAME X2000Z ALPHA WELD",
+    "Drawing Number": "X1003456",
+    "Revision History": {
+      "00": {
+        "Zone": "A1",
+        "Description": "INITIAL DESIGN RELEASE",
+        "ECM": "2001234",
+        "DATE": "2022-01-15",
+        "CHG": "JDS",
+        "CHK": "MLT",
+        "APVD": "KT"
+      }
+    },
+    "Part Numbers": {
+      "X5007890": {
+        "Qty": "3",
+        "Description": "FRAME SUPPORT BRACKET ALPHA"
+      },
+      "X5007891": {
+        "Qty": "6",
+        "Description": "BOLT ASSEMBLY HEX M12"
+      },
+      "X5007892": {
+        "Qty": "2",
+        "Description": "LEFT PANEL MOUNT ALPHA"
+      },
+      "X5007893": {
+        "Qty": "2",
+        "Description": "RIGHT PANEL MOUNT ALPHA"
+      }
+    },
+    "Notes": [
+      "Ensure all welds meet ISO 5817 standards.",
+      "Vendor: ALPHA MECHANICAL SOLUTIONS, Vendor No: 88.45678"
+    ],
+    "Drawn By": "jdoe",
+    "Checked By": "MLT",
+    "Approved By": "KT",
+    "Weld Callout Count": 2
+  },
+  {
+    "Title": "BASE PLATE X2000Z",
+    "Drawing Number": "X1003457",
+    "Revision History": {
+      "00": {
+        "Zone": "B2",
+        "Description": "INITIAL RELEASE",
+        "ECM": "2001235",
+        "DATE": "2022-02-10",
+        "CHG": "JDS",
+        "CHK": "MLT",
+        "APVD": "KT"
+      },
+      "01": {
+        "Zone": "C3",
+        "Description": "UPDATED HOLE PATTERN",
+        "ECM": "2001456",
+        "DATE": "2023-05-18",
+        "CHG": "JDS",
+        "CHK": "MLT",
+        "APVD": "KT"
+      }
+    },
+    "Part Numbers": {
+      "X5007894": {
+        "Qty": "1",
+        "Description": "BASE PLATE STEEL X2000Z"
+      },
+      "X5007895": {
+        "Qty": "4",
+        "Description": "ANCHOR BOLT M16"
+      }
+    },
+    "Notes": [
+      "Surface finish must be Ra \u2264 3.2 \u00b5m.",
+      "Vendor: ALPHA METALS INC, Vendor No: 88.45679"
+    ],
+    "Drawn By": "jdoe",
+    "Checked By": "MLT",
+    "Approved By": "KT",
+    "Weld Callout Count": 1
+  },
+  {
+    "Title": "CONTROL PANEL X2000Z",
+    "Drawing Number": "X1003458",
+    "Revision History": {
+      "00": {
+        "Zone": "D4",
+        "Description": "INITIAL RELEASE",
+        "ECM": "2001236",
+        "DATE": "2022-03-05",
+        "CHG": "JDS",
+        "CHK": "MLT",
+        "APVD": "KT"
+      }
+    },
+    "Part Numbers": {},
+    "Notes": [
+      "Vendor: ALPHA CONTROLS LTD, Vendor No: CP-X2000Z"
+    ],
+    "Drawn By": "jdoe",
+    "Checked By": "MLT",
+    "Approved By": "KT",
+    "Weld Callout Count": 0
+  }
+]
