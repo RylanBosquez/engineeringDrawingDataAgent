@@ -1,4 +1,4 @@
 streamlit
-chromabd
+chromadb
 langchain
 langchain-ollama
